@@ -7,7 +7,7 @@
 "   Added fluid non-indenting tags
 " Filenames:    *.fluid
 " Usage:  As fluid templates almost always use .html set a modeline on top of
-          your template.
+"         your template.
 " URL:		https://github.com/mipmip/vim-fluid
 
 if !exists("main_syntax")
